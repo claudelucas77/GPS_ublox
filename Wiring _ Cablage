@@ -1,0 +1,9 @@
+TX of the GPS -> RX module pin 38
+RX of the GPS -> TX module pin 17
+connect power supply and GND (3.3V or 5V and Ground) of the GPS to the module
+
+Connect battery - to 0V of the module
+Connect battery + to the switch (interrupteur) 
+Connect switch to the 3.3V of the module
+
+Finished !
